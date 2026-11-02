@@ -2,45 +2,115 @@
 ## DATE:
 
 ## AIM:
-To create a 3D model from given orthographic projection.
+To draw the three orthographic views (Top View, Front View and Right Side View) of the
+given mechanical component using the given dimensions and suitable engineering drawing
+instruments.
+The main objective of this experiment is to understand the orthographic projection method
+and represent a three-dimensional mechanical object in two-dimensional views. The drawing
+helps to identify the shape, size, holes, curved surfaces, slots and other important features
+of the component.
+The three views are drawn with proper alignment, dimensions, centre lines, visible lines and
+hidden lines to obtain an accurate engineering drawing.
+
 
 ## REQUIREMENTS:
-1. Autodesk fusion 360
-2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+The following drawing instruments and materials are required:
+1. Drawing Sheet: Used to draw the orthographic views of the given component.
+2. Drawing Board: Provides a flat and stable surface for drawing.
+3. Mini Drafter / T-Square: Used to draw horizontal and vertical lines accurately.
+4. Set Squares: Used to draw perpendicular and parallel lines.
+5. Scale: Used to measure and mark the given dimensions.
+6. Compass: Used to draw circular and semicircular portions.
+7. Divider: Used to transfer measurements accurately.
+8. Pencil (2H): Used to draw construction lines and object outlines.
+9. Eraser: Used to remove unwanted construction lines.
+10. French Curve: Used to draw smooth curved portions wherever required.
+
+### 3. Given Dimensions
+The important dimensions of the given component are:
+Description                                Dimension
+Length of main portion                 52 mm
+Additional width indicated            11 mm
+Overall width                                40 mm
+Height of component                    32 mm
+Central gap                                  18 mm
+Upper and lower portions             11 mm
+                                                       each
+Length of extended portion           32 mm
+Distance from hole centre to
+Shoulder                                        36 mm
+Radius of rounded end                  R16 mm
+Diameter of front hole                      Ø16 mm
+Diameter of right-side hole              Ø18 mm
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+## Step 1: Study the given drawing
+● First, carefully observe the given engineering drawing.
+● Identify the three views: Top View, Front View and Right Side View.
+● Note the dimensions, holes, slots, rectangular portions and curved surfaces.
+● Understand the position of each view and their relationship.
+● Select a suitable scale, preferably 1:1 if the drawing sheet permits.
+<img width="599" height="446" alt="image" src="https://github.com/user-attachments/assets/da2518ab-5cdb-45fc-8bb9-4d25c1db0852" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+## Step 2: Draw the Front View
+● First, draw a horizontal reference line for the Front View.
+● Mark the centre point of the rounded portion.
+● Draw a semicircular end using a radius of 16 mm.
+● Draw a circular hole of diameter 16 mm at the centre of the rounded end.
+● Extend the horizontal lines to form the rectangular main body.
+● Mark the distance of 36 mm from the hole centre to the shoulder.
+● Draw the extended rectangular portion with a length of 32 mm.
+● Draw the vertical boundary lines to complete the main body.
+● Add the centre line through the circular hole.
+● Draw the hidden lines to represent the internal edges.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+## Step 3: Draw the Top View
+● Draw the Top View above the Front View.
+● Project the required vertical construction lines from the Front View.
+● Mark the overall width as 40 mm.
+● Divide the width into three portions: 11 mm, 18 mm and 11 mm.
+● Draw the upper and lower rectangular portions.
+● Construct the central open slot with a width of 18 mm.
+<img width="596" height="263" alt="image" src="https://github.com/user-attachments/assets/51a4679b-239e-4f0f-9c57-2d74e4e4f321" />
+● Mark the horizontal dimensions according to the given drawing.
+● Draw the extended rectangular portion on the right side.
+● Represent the hidden edges using dashed lines.
+● Draw the necessary centre lines to indicate the position of the holes.
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+## Step 4: Draw the Right Side View
+● Draw the Right Side View on the right side of the Front View.
+● Project the necessary horizontal lines from the Front View.
+● Draw the outer rectangular boundary with a width of 40 mm and a height of 32 mm.
+● Mark the centre of the view.
+● Draw the circular hole with a diameter of 18 mm.
+● Draw the horizontal and vertical centre lines passing through the circular hole.
+● Represent the internal edges using hidden lines.
+● Complete the Right Side View according to the given dimensions.
+<img width="597" height="322" alt="image" src="https://github.com/user-attachments/assets/d01d6349-80b2-4c80-90f0-d71f6fd8185a" />
 
-5.	Use inspect feature to measure the dimensions of sketch.
+## Step 5: Finishing the Drawing
+● Check the alignment of all three orthographic views.
+● Darken the visible outlines using a suitable pencil.
+● Draw hidden edges using dashed lines.
+● Draw centre lines using thin chain lines.
+● Add all necessary dimensions, arrows and extension lines.
+● Erase unwanted construction lines.
+● Check the accuracy and neatness of the completed drawing
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+<img width="598" height="353" alt="image" src="https://github.com/user-attachments/assets/c1a42b58-20b0-4eb8-8baa-176b54032289" />
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
-
-7.	Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
-
-8.	After finishing the model convert to drawing sheet per  ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+<img width="628" height="516" alt="image" src="https://github.com/user-attachments/assets/7df9363d-3a8f-434f-aee5-753335a45493" />
+<img width="627" height="446" alt="image" src="https://github.com/user-attachments/assets/f8bff80d-70ef-4a8c-9d9d-6e9efaa134b1" />
+
 
 ## RESULT:
-Thus, 3D model is created from orthographic projection.
+Thus, the three orthographic views (Top View, Front View and Right Side View) of the given
+mechanical component were drawn successfully using the given dimensions and appropriate
+engineering drawing instruments.
+
