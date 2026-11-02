@@ -99,11 +99,6 @@ Diameter of right-side hole              Ø18 mm
 
 <img width="598" height="353" alt="image" src="https://github.com/user-attachments/assets/c1a42b58-20b0-4eb8-8baa-176b54032289" />
 
-
-
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
-
 ## OUTPUT:
 <img width="628" height="516" alt="image" src="https://github.com/user-attachments/assets/7df9363d-3a8f-434f-aee5-753335a45493" />
 <img width="627" height="446" alt="image" src="https://github.com/user-attachments/assets/f8bff80d-70ef-4a8c-9d9d-6e9efaa134b1" />
